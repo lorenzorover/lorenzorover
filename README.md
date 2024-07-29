@@ -5,7 +5,7 @@
 ## Contato
 
 <div>
-<a href = "www.linkedin.com/in/lorenzo-rover" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/lorenzo-rover" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:lorenzo.rover66@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
