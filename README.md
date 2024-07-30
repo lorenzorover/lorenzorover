@@ -2,9 +2,9 @@
 
 - Atualmente, estou estudando programação;
 - Resido em Florianópolis - SC;
-- Possui técnico em informática formado no IFSC;
+- Possuo formação de técnico em informática no IFSC;
 - Foco mais nas linguagens BackEnd;
-- Estou sempre tentando melhorar e aperfeiçoar minhas habilidades;
+- Estou sempre buscando melhorar e aperfeiçoar minhas habilidades;
 - Estou em busca de oportunidades.
 
 <br>
