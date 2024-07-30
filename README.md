@@ -29,10 +29,11 @@ Abaixo estão algumas tecnologias e linguagens que utilizo e também aquelas que
     <tr>
       <td><strong>Ferramentas de Desenvolvimento</strong></td>
       <td>
-        <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
         <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
         <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       </td>
     </tr>
     <tr>
