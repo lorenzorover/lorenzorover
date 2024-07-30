@@ -22,27 +22,30 @@ Abaixo estão algumas tecnologias e linguagens que utilizo e também aquelas que
     <tr>
       <td><strong>Linguagens de Programação</strong></td>
       <td>
-          <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       </td>
     </tr>
     <tr>
       <td><strong>Ferramentas de Desenvolvimento</strong></td>
       <td>
-          <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-          <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
       </td>
     </tr>
     <tr>
       <td><strong>Banco de Dados</strong></td>
-      <td><strong>MySQL</strong>, <strong>MySQL Workbench</strong></td>
+      <td>
+        <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+      </td>
     </tr>
     <tr>
       <td><strong>Desenvolvimento Frontend</strong></td>
       <td>
-          <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
       </td>
     </tr>
   </table>
@@ -68,7 +71,7 @@ Abaixo estão algumas tecnologias e linguagens que utilizo e também aquelas que
 ## Info
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzorover&show_icons=true&theme=blue-green" alt="GitHub Stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzorover&layout=compact&langs_count=7&theme=blue-green"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzorover&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzorover&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzorover&show_icons=true&theme=blue-green" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzorover&theme=blue-green"/>
 </div>
