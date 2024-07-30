@@ -5,7 +5,7 @@
 - Possui técnico em informática formado no IFSC;
 - Foco mais nas linguagens BackEnd;
 - Estou sempre tentando melhorar e aperfeiçoar minhas habilidades;
-- Estou em busca de oportunidades (meu LinkedIn esta logo abaixo).
+- Estou em busca de oportunidades.
 
 <br>
 
