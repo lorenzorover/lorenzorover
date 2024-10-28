@@ -11,7 +11,7 @@
 
 ## Tech Stack
 
-Abaixo estão algumas tecnologias e linguagens que utilizo e também aquelas que estou desenvolvendo:
+Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou aperfeiçoando:
 
 <div>
   <table>
