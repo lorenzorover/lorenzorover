@@ -3,9 +3,9 @@
 - Atualmente, estou estudando programação;
 - Resido em Florianópolis - SC;
 - Possuo formação de técnico em informática no IFSC;
+- Possuo conhecimento geral (Full-stack);
 - Foco mais nas linguagens BackEnd;
 - Estou sempre buscando melhorar e aperfeiçoar minhas habilidades;
-- Estou em busca de oportunidades.
 
 <br>
 
@@ -16,37 +16,39 @@ Abaixo estão algumas tecnologias e linguagens que utilizo e também aquelas que
 <div>
   <table>
     <tr>
-      <th><strong>Categoria</strong></th>
-      <th><strong>Ferramentas/ Tecnologias</strong></th>
+      <th>Categoria</th>
+      <th>Ferramentas/ Tecnologias</th>
     </tr>
     <tr>
-      <td><strong>Linguagens de Programação</strong></td>
+      <th>Linguagens de Programação</th>
       <td>
         <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
         <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Ferramentas de Desenvolvimento</strong></td>
-      <td>
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Banco de Dados</strong></td>
-      <td>
         <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
       </td>
     </tr>
     <tr>
-      <td><strong>Desenvolvimento Frontend</strong></td>
+      <th>Frameworks e Bibliotecas</th>
+      <td>
+        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+      </td>
+    </tr>
+    <tr>
+      <th>Linguagens de Marcação</th>
       <td>
         <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
         <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+      </td>
+    </tr>
+    <tr>
+      <th>Ferramentas de Desenvolvimento</th>
+      <td>
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       </td>
     </tr>
   </table>
