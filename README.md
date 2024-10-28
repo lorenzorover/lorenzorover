@@ -1,10 +1,10 @@
 ## Olá 👋 <br><br> Me chamo Lorenzo Rover
 
-- Atualmente, estou estudando programação;
+- Atualmente, estou cursando programação;
 - Resido em Florianópolis - SC;
 - Possuo formação de técnico em informática no IFSC;
-- Possuo conhecimento geral (Full-stack);
-- Foco mais nas linguagens BackEnd;
+- Possuo conhecimento geral em desenvolvimento Full-Stack;
+- Tenho foco principalmente em linguagens e tecnologias Back-End;
 - Estou sempre buscando melhorar e aperfeiçoar minhas habilidades;
 
 <br>
