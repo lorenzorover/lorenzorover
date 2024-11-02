@@ -23,7 +23,6 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
       <th>Linguagens de Programação</th>
       <td>
         <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
       </td>
     </tr>
@@ -34,10 +33,12 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
       </td>
     </tr>
     <tr>
-      <th>Linguagens de Marcação</th>
+      <th>Desenvolvimento Web</th>
       <td>
         <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
         <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img height="35em" alt="Static Badge" src="https://img.shields.io/badge/json-black?style=for-the-badge">
       </td>
     </tr>
     <tr>
