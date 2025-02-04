@@ -65,13 +65,13 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
 
 <div>
 <p>Acesso rápido:</p>
-<a href = "https://www.linkedin.com/in/lorenzo-rover" target="_blank"><img height="27em" loading="lazy" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:lorenzo.rover66@gmail.com"><img height="27em" loading="lazy" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/lorenzo-rover" target="_blank"><img height="27em" loading="lazy" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:lorenzo.rover66@gmail.com" target="_blank"><img height="27em" loading="lazy" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br><br>
 
 <p>Outros contatos:</p>
 <img height="27em" loading="lazy" src="https://img.shields.io/badge/user%3A%20Rakard-grey?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2"><br>
-<a href="https://lorenzorover.github.io/portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge" target="_blank"></a>
+<a href="https://lorenzorover.github.io/portfolio/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge"></a>
 
 </div>
 
