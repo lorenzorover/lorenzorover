@@ -22,34 +22,37 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
     <tr>
       <th>Linguagens de Programação</th>
       <td>
-        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-        <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+        <img alt="Static Badge" src="https://img.shields.io/badge/Java-black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black">
       </td>
     </tr>
     <tr>
-      <th>Frameworks e Bibliotecas</th>
+      <th>Frameworks e Bibliotecas Externas</th>
       <td>
-        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+        <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Framework-black?logo=spring">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Gson-black?style=flat-square">
       </td>
     </tr>
     <tr>
       <th>Desenvolvimento Web</th>
       <td>
-        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-        <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img height="35em" alt="Static Badge" src="https://img.shields.io/badge/json-black?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?logo=html5">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6">
+        <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript">
+        <img alt="Static Badge" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%23f7b500">
       </td>
     </tr>
     <tr>
       <th>Ferramentas de Desenvolvimento</th>
       <td>
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-        <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+        <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=black&labelColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse%20IDE-black?logo=eclipseide&logoColor=%232C2255">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=git">
+        <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?logo=github">
+        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=mysql&labelColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&labelColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=%2385EA2D">
       </td>
     </tr>
   </table>
@@ -66,7 +69,8 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
 <br><br>
 
 <p>Outros contatos:</p>
-<img height="27em" loading="lazy" src="https://img.shields.io/badge/user%3A%20Rakard-grey?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2">
+<img height="27em" loading="lazy" src="https://img.shields.io/badge/user%3A%20Rakard-grey?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2"><br>
+<a href="https://lorenzorover.github.io/portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge"></a>
 
 </div>
 
@@ -79,3 +83,7 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzorover&show_icons=true&theme=blue-green" alt="GitHub Stats">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzorover&theme=blue-green"/>
 </div>
+
+<!--
+O ícone JavaScript foi retirado do site Simple Icons, licenciado sob a MIT License.
+-->
