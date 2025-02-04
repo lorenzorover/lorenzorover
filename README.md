@@ -31,6 +31,7 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
       <td>
         <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Framework-black?logo=spring">
         <img alt="Static Badge" src="https://img.shields.io/badge/Gson-black?style=flat-square">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Jtokkit-black?style=flat-square">
       </td>
     </tr>
     <tr>
@@ -70,7 +71,7 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
 
 <p>Outros contatos:</p>
 <img height="27em" loading="lazy" src="https://img.shields.io/badge/user%3A%20Rakard-grey?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2"><br>
-<a href="https://lorenzorover.github.io/portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge"></a>
+<a href="https://lorenzorover.github.io/portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge" target="_blank"></a>
 
 </div>
 
