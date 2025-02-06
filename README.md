@@ -24,10 +24,11 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
       <td>
         <img alt="Static Badge" src="https://img.shields.io/badge/Java-black">
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript">
       </td>
     </tr>
     <tr>
-      <th>Frameworks e Bibliotecas Externas</th>
+      <th>Frameworks e Bibliotecas</th>
       <td>
         <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Framework-black?logo=spring">
         <img alt="Static Badge" src="https://img.shields.io/badge/Gson-black?style=flat-square">
@@ -35,11 +36,17 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
       </td>
     </tr>
     <tr>
+      <th>Banco de Dados</th>
+      <td>
+        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=mysql&labelColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&labelColor=white">
+      </td>
+    </tr>
+    <tr>
       <th>Desenvolvimento Web</th>
       <td>
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?logo=html5">
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6">
-        <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript">
         <img alt="Static Badge" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%23f7b500">
       </td>
     </tr>
@@ -51,8 +58,6 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
         <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse%20IDE-black?logo=eclipseide&logoColor=%232C2255">
         <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=git">
         <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?logo=github">
-        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=mysql&labelColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&labelColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=%2385EA2D">
       </td>
     </tr>
@@ -80,9 +85,9 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
 ## Info
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzorover&layout=compact&langs_count=7&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzorover&show_icons=true&theme=blue-green" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzorover&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzorover&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzorover&show_icons=true&theme=dracula" alt="GitHub Stats">
 </div>
 
 <!--
