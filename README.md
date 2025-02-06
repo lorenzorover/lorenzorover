@@ -1,11 +1,11 @@
 ## Olá 👋 <br><br> Me chamo Lorenzo Rover
 
-- Atualmente, estou cursando programação;
+- Atualmente, estou me aprofundando em programação e desenvolvimento de software;
 - Resido em Florianópolis - SC;
-- Possuo formação de técnico em informática no IFSC;
+- Possuo formação técnica em Informática pelo IFSC e concluí duas formações em programação: Jovem Programador (SENAC) e Alura ONE Backend, onde aprimorei minhas habilidades em desenvolvimento de software;
 - Possuo conhecimento geral em desenvolvimento Full-Stack;
-- Tenho foco principalmente em linguagens e tecnologias Back-End;
-- Estou sempre buscando melhorar e aperfeiçoar minhas habilidades;
+- Tenho foco principalmente em linguagens e tecnologias Back-End, como Spring Framework;
+- Estou sempre buscando melhorar e aperfeiçoar minhas habilidades.
 
 <br>
 
