@@ -4,7 +4,7 @@
 - Resido em Florianópolis - SC;
 - Possuo formação técnica em Informática pelo IFSC e concluí duas formações em programação: Jovem Programador (SENAC) e Alura ONE Backend, onde aprimorei minhas habilidades em desenvolvimento de software;
 - Possuo conhecimento geral em desenvolvimento Full-Stack;
-- Tenho foco principalmente em linguagens e tecnologias Back-End, como Spring Framework;
+- Tenho foco principalmente em linguagens e tecnologias Back-End, como Java e Spring Boot;
 - Estou sempre buscando melhorar e aperfeiçoar minhas habilidades.
 
 <br>
@@ -22,43 +22,43 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
     <tr>
       <th>Linguagens de Programação</th>
       <td>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Java-black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Java-black">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/SQL-black">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/JavaScript-black?logo=javascript">
       </td>
     </tr>
     <tr>
       <th>Frameworks e Bibliotecas</th>
       <td>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Framework-black?logo=spring">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Gson-black?style=flat-square">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Jtokkit-black?style=flat-square">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Spring%20Framework-black?logo=spring">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Gson-black?style=flat-square">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Jtokkit-black?style=flat-square">
       </td>
     </tr>
     <tr>
       <th>Banco de Dados</th>
       <td>
-        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?logo=mysql&labelColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&labelColor=white">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/MySQL-black?logo=mysql&labelColor=white">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&labelColor=white">
       </td>
     </tr>
     <tr>
       <th>Desenvolvimento Web</th>
       <td>
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?logo=html5">
-        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6">
-        <img alt="Static Badge" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%23f7b500">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/HTML-black?logo=html5">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=%23f7b500">
       </td>
     </tr>
     <tr>
       <th>Ferramentas de Desenvolvimento</th>
       <td>
-        <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-black">
-        <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=black&labelColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse%20IDE-black?logo=eclipseide&logoColor=%232C2255">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=git">
-        <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?logo=github">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=%2385EA2D">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/VS%20Code-black">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=black&labelColor=white">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Eclipse%20IDE-black?logo=eclipseide&logoColor=%232C2255">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Git-black?logo=git">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/GitHub-black?logo=github">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=%2385EA2D">
       </td>
     </tr>
   </table>
