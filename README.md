@@ -94,7 +94,7 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
 
 ## Projetos Destacados
 
-Os repositórios com Pin abaixo são projetos desenvolvidos durante os cursos que realizei e destacam minha evolução e habilidades práticas.
+Os repositórios com Pin no meu perfil são projetos desenvolvidos durante os cursos que realizei e destacam minha evolução e habilidades práticas.
 
 <!--
 O ícone JavaScript foi retirado do site Simple Icons, licenciado sob a MIT License.
