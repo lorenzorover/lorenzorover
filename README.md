@@ -90,6 +90,12 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzorover&show_icons=true&theme=dracula" alt="GitHub Stats">
 </div>
 
+<br>
+
+## Projetos Destacados
+
+Os repositórios com Pin abaixo são projetos desenvolvidos durante os cursos que realizei e destacam minha evolução e habilidades práticas.
+
 <!--
 O ícone JavaScript foi retirado do site Simple Icons, licenciado sob a MIT License.
 -->
