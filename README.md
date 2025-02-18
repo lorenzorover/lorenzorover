@@ -11,7 +11,7 @@
 
 ## Tech Stack
 
-Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou aperfeiçoando:
+Estas são as tecnologias e linguagens com as quais trabalho, já tive experiência e continuo aperfeiçoando:
 
 <div>
   <table>
@@ -59,6 +59,7 @@ Abaixo estão algumas tecnologias e linguagens com as quais trabalho e que estou
         <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Git-black?logo=git">
         <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/GitHub-black?logo=github">
         <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=%2385EA2D">
+        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Postman-black?logo=postman">
       </td>
     </tr>
   </table>
