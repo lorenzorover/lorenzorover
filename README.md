@@ -32,7 +32,6 @@ Estas são as tecnologias e linguagens com as quais trabalho, já tive experiên
       <td>
         <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Spring%20Framework-black?logo=spring">
         <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Gson-black?style=flat-square">
-        <img alt="Static Badge" height="24em" src="https://img.shields.io/badge/Jtokkit-black?style=flat-square">
       </td>
     </tr>
     <tr>
