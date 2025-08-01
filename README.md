@@ -1,6 +1,6 @@
 ## Olá 👋 <br><br> Me chamo Lorenzo Rover
 
-- Possuo formação técnica em Informática pelo IFSC e concluí duas formações em programação: Jovem Programador (SENAC) e Alura ONE Backend, onde aprimorei minhas habilidades em desenvolvimento de software;
+- Possuo formação técnica em Informática pelo IFSC, além de um curso profissionalizante em programação pelo SENAC e a formação online Alura ONE Backend, nos quais aprimorei minhas habilidades em desenvolvimento de software.
 - Resido em Florianópolis - SC;
 - Possuo conhecimento geral em desenvolvimento Full-Stack;
 - Tenho foco principalmente em linguagens e tecnologias Back-End, como Java e Spring Boot;
